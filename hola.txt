@@ -3,3 +3,4 @@ second commit
 third commit
 
 user1 first commit
+user1 second commit
