@@ -2,6 +2,9 @@ Initial commit
 second commit
 third commit
 
+First commit user3
+Second commit user3
+
 user1 first commit
 user1 second commit
 
